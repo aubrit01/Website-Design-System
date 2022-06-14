@@ -1,0 +1,109 @@
+body{
+    margin: 0 10%;
+    font-family: 'Roboto', sans-serif;
+    background-color: #223344;
+    color: #fff;
+}
+
+h2 {
+
+}
+
+.container {
+  border: 2px solid #A6ADB4;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  width: 100%;
+}
+
+.color-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.burnt-orange {
+    background-color: #f8b195;
+    color: #fff;
+  }
+  
+.coral-pink {
+    background-color: #f67280;
+    color: #fff;
+}
+  
+.light-purple {
+    background-color: #c06c84;
+    color: #fff;
+}
+  
+.deep-purple {
+    background-color: #6c5b7b;
+    color: #fff;
+}
+
+.royal-blue {
+    background-color: #355c7d;
+    color: #fff;
+}
+
+.font-panel {
+  width:45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-style: bold;
+}
+
+.open-sans {
+  font-family: 'Open Sans';
+}
+
+.roboto {
+  font-family: Roboto;
+}
+
+.pt-sans {
+  font-family: 'PT Sans';
+}
+
+.pt-sans-narrow {
+  font-family: 'PT Sans Narrow';
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: 'Open Sans';
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'PT Sans';
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
